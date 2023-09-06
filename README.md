@@ -14,9 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- part one -->
+![](assets/Bottom_up.svg)
+
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/liu-taotao/liu-taotao"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/liu-taotao/liu-taotao/graphs/contributors"><img src="https://img.shields.io/github/contributors/liu-taotao/liu-taotao?color=blue"></a>
+    <a href="https://github.com/liu-taotao/liu-taotao/stargazers"><img src="https://img.shields.io/github/stars/liu-taotao/liu-taotao.svg?logo=github"></a>
+    <a href="https://github.com/liu-taotao/liu-taotao/network/members"><img src="https://img.shields.io/github/forks/liu-taotao/liu-taotao.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=liu-taotao.liu-taotao" alt="visitors"/>   
+</p>
+
+
+<!--   my-header-img -->
+![](./assets/header_.png)
+
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+liu+taotao;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 
 
+
+
+
+
+<!-- part two -->
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
