@@ -24,12 +24,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=liu-taotao"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake -->
-![](https://github.com/liu-taotao/liu-taotao/blob/output/github-contribution-grid-snake.svg)
-
 
 
 <picture>
