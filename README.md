@@ -40,11 +40,6 @@ Here are some ideas to get you started:
 
 
 
-<!-- [![liu-taotao's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liu-taotao&theme=github-compact)](https://github.com/liu-taotao/github-readme-activity-graph) -->
-![liu-taotao's github activity graph](https://raw.githubusercontent.com/liu-taotao/liu-taotao/output/github-contribution-grid-snake.svg)
-
-
-
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
