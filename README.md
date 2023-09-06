@@ -15,8 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liu-taotao&count_private=true&card_width=400px&line_height=28)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-taotao&hide=qml,javascript,html,css,qmake,assembly,cmake&layout=compact&langs_count=10)
+
+
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![liu-taotao's github stats](https://github-readme-stats.vercel.app/api?username=liu-taotao&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-taotao&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=liu-taotao"></img>
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/liu-taotao/liu-taotao/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -25,3 +37,18 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liu-taotao/liu-taotao/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liu-taotao/liu-taotao/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+<!-- [![liu-taotao's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liu-taotao&theme=github-compact)](https://github.com/liu-taotao/github-readme-activity-graph) -->
+![liu-taotao's github activity graph](https://raw.githubusercontent.com/liu-taotao/liu-taotao/output/github-contribution-grid-snake.svg)
+
+
+
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liu-taotao" alt="liu-taotao" /></a>
+</p>
