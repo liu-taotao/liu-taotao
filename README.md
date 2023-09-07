@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![liu-taotao's github stats](https://github-readme-stats.vercel.app/api?username=liu-taotao&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-taotao&theme=radical&layout=compact) |
+| ![liu-taotao's github stats](https://github-readme-stats.vercel.app/api?username=liu-taotao&count_private=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-taotao&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=liu-taotao"></img>
 
