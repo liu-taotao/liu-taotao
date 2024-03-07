@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![liu-taotao's github stats](https://github-readme-stats.vercel.app/api?username=liu-taotao&count_private=true&theme=radical&card_width=400px&line_height=28) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-taotao&hide=qml&theme=radical&layout=compact&langs_count=10) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=liu-taotao"></img>
-
 
 
 <picture>
